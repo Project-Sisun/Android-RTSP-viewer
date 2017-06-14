@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "243412019904",
+    "firebase_url": "https://sisun-f89d6.firebaseio.com",
+    "project_id": "sisun-f89d6",
+    "storage_bucket": "sisun-f89d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243412019904:android:c4a6ba36b991003e",
+        "android_client_info": {
+          "package_name": "sisun.kokkiri.sisun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243412019904-5fsd7brmpj564md8hlcmifote58f7bj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdXfqV4cMEeKlm8504CFfZXyiwW98UL9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

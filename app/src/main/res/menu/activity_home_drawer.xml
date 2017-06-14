@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/event_list"
+            android:icon="?android:attr/actionModeFindDrawable"
+            android:title="이벤트 이력" />
+        <item
+            android:id="@+id/demo"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="데모보기" />
+        <item
+            android:id="@+id/board"
+            android:icon="?attr/actionModePasteDrawable"
+            android:title="공지사항" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="환경설정" />
+    </group>
+
+    <item android:title="카메라 관리">
+        <menu>
+            <item
+                android:id="@+id/add_new_camera"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="카메라 추가" />
+            <item
+                android:id="@+id/setting_camera"
+                android:icon="@drawable/ic_menu_share"
+                android:title="카메라 설정" />
+        </menu>
+    </item>
+
+</menu>

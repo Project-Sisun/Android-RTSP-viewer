@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/filter1"
+        android:orderInCategory="101"
+        android:title="HOME"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/filter3"
+        android:orderInCategory="100"
+        android:title="학교" />
+    <item
+        android:id="@+id/filter2"
+        android:orderInCategory="101"
+        android:title="직장"
+        app:showAsAction="never" />
+</menu>
